@@ -4,8 +4,9 @@
 
 This is a native module for React Native to control the screen brightness.
 
-It is a fork of https://github.com/Calvin-Huang/react-native-device-brightness, and has added the following features:
+It is a fork of https://github.com/adrianso/react-native-device-brightness which that one is fork of https://github.com/Calvin-Huang/react-native-device-brightness, and has added the following features:
 
+- Fix react-native-device-brightness.podspec dependency use React-Core instead of React
 - React Native 0.60 compatibility
 - iOS 13 compatibility
 
