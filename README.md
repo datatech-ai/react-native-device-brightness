@@ -13,7 +13,7 @@ It is a fork of https://github.com/adrianso/react-native-device-brightness which
 ## Installation
 
 ```
-yarn add @datatech-ai/react-native-device-brightness
+yarn add datatech-ai/react-native-device-brightness
 ```
 
 ## Linking
