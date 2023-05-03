@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.source       = { :path => "RNDeviceBrightness/" }
   s.source_files = "**/*.{h,m}"
   
-  s.dependency "React"
+  s.dependency "React-Core"
 end
