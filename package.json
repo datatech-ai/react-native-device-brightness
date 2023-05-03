@@ -1,11 +1,11 @@
 {
-  "name": "@adrianso/react-native-device-brightness",
-  "version": "1.2.7",
+  "name": "datatech-ai/react-native-device-brightness",
+  "version": "1.0.0",
   "description": "Screen brightness adjustment tool for React Native",
-  "homepage": "https://github.com/adrianso/react-native-device-brightness#readme",
+  "homepage": "https://github.com/datatech-ai/react-native-device-brightness#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrianso/react-native-device-brightness"
+    "url": "https://github.com/datatech-ai/react-native-device-brightness"
   },
   "keywords": [
     "react-native",
@@ -15,7 +15,7 @@
     "device-brightness",
     "brightness"
   ],
-  "author": "Adrian So <adrian@sld.co.nz> (https://github.com/adrianso)",
+  "author": "Datatech.ai (https://github.com/datatech-ai)",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
