@@ -27,6 +27,29 @@ This module supports auto-linking for React Native version 0.60 and above. No ad
 - _Adjusting screen brightness will make iOS's Auto-Brightness function do nothing._
 - _Adjusting screen brightness in Android only works in App and will reset to system setting exiting App._
 
+To use your forked version of react-native-device-brightness in your React Native project, you can follow these steps:
+
+Clone the forked repository to your local machine using the command:
+```
+git clone https://github.com/datatech-ai/react-native-device-brightness.git
+```
+
+Navigate to your React Native project's root directory and run the command:
+```
+yarn add file:/path/to/forked/repository
+```
+
+In this command, replace "/path/to/forked/repository" with the path to the cloned forked repository on your local machine.
+
+For example, if you cloned the forked repository to your Desktop directory, the command would be:
+```
+yarn add file:/Users/YourUsername/Desktop/react-native-device-brightness
+```
+
+Import the module in your code using the same syntax as the original react-native-device-brightness module:
+javascript
+import DeviceBrightness from 'react-native-device-brightness';
+
 ```javascript
 import DeviceBrightness from 'react-native-device-brightness';
 
