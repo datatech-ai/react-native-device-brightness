@@ -19,7 +19,7 @@ Method 1:
 yarn add https://github.com/datatech-ai/react-native-device-brightness
 ```
 
-Method2:
+Method 2:
 
 Clone the forked repository to your local machine using the command:
 ```
