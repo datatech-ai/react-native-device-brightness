@@ -34,12 +34,13 @@ Clone the forked repository to your local machine using the command:
 git clone https://github.com/datatech-ai/react-native-device-brightness.git
 ```
 
+
 Navigate to your React Native project's root directory and run the command:
 ```
 yarn add file:/path/to/forked/repository
 ```
-
 In this command, replace "/path/to/forked/repository" with the path to the cloned forked repository on your local machine.
+
 
 For example, if you cloned the forked repository to your Desktop directory, the command would be:
 ```
