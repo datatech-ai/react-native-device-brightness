@@ -1,5 +1,5 @@
 {
-  "name": "@datatech-ai/react-native-device-brightness",
+  "name": "datatech-ai/react-native-device-brightness",
   "version": "1.0.0",
   "description": "Screen brightness adjustment tool for React Native",
   "homepage": "https://github.com/datatech-ai/react-native-device-brightness#readme",
