@@ -14,12 +14,13 @@ It is a fork of https://github.com/adrianso/react-native-device-brightness which
 
 Follow either of the methods below
 
-Method 1. 
+Method 1:
 ```
 yarn add https://github.com/datatech-ai/react-native-device-brightness
 ```
 
-Method2. 
+Method2:
+
 Clone the forked repository to your local machine using the command:
 ```
 git clone https://github.com/datatech-ai/react-native-device-brightness.git
