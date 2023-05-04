@@ -1,4 +1,4 @@
-# datatech-ai/react-native-device-brightness
+# @datatech-ai/react-native-device-brightness
 
 [![npm version](https://badge.fury.io/js/%40adrianso%2Freact-native-device-brightness.svg)](https://badge.fury.io/js/%40adrianso%2Freact-native-device-brightness)
 
